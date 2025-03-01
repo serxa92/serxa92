@@ -1,4 +1,4 @@
-<h3 >[👋](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Serxa92 </h3> 
+<h3 >👋Hi there, I'm Serxa92 </h3> 
 
 <!-- Typing effect -->
 <h2 align="center">
@@ -17,11 +17,7 @@
 
 
   
-[![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/sergio-agulla/)[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white)](https://sergioagulla.vercel.app/) 
-
-
-
-
+[![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/sergio-agulla/)
 
 ---
 
