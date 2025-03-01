@@ -17,10 +17,13 @@
 
 ### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+### 🛠️ Tech Stack
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" alt="HTML5" width="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3" width="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" width="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/postgresql.png" alt="SQL" width="50" /></a>
+
 
 ---
 
