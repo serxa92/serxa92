@@ -11,8 +11,9 @@
 
 
 - 📚 FullStack Development and Cross-Platform Application Development Student at ThePower.
-- [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/sergio-agulla/)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sergio-agulla/)
+- <br>
+ [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/sergio-agulla/)
+
 -  [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white)](https://sergioagulla.vercel.app/) 
 
 
