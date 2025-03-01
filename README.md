@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=800080&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Fullstack+Developer;Passionate+about+Tech;Always+Learning"
 </h2>
 
+
+
 ---
 
 ### 🚀 About Me
