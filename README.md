@@ -12,7 +12,7 @@
   <h3>🚀 About Me</h3>
 
 
- 📚 FullStack Development and Cross-Platform Application Development Student at ThePower.
+ - 📚 FullStack Development and Cross-Platform Application Development Student at ThePower.
 
 
   
