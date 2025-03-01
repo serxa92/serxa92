@@ -2,7 +2,8 @@
 
 <!-- Typing effect -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Fullstack+Developer;Passionate+about+Tech;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=800080&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Fullstack+Developer;Passionate+about+Tech;Always+Learning" />
+ alt="Typing SVG" />
 </h3>
 
 ---
