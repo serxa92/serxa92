@@ -21,7 +21,7 @@
 [![CSS3](https://img.icons8.com/color/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SQL](https://img.icons8.com/color/50/000000/database.png)](https://www.mysql.com/)
-[![Java](https://img.icons8.com/color/50/000000/java.png)](https://www.java.com/)
+[![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)](https://www.java.com/)
 
 
 ---
