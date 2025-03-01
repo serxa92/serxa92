@@ -9,7 +9,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 <h3 color=#D83B7D>About Me</h3>
 
 
 - 📚 FullStack Development and Cross-Platform Application Development Student at ThePower.
