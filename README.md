@@ -18,7 +18,12 @@
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite)](https://skillicons.dev)
+[![HTML5](https://img.icons8.com/color/50/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.icons8.com/color/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.icons8.com/color/50/000000/mysql-logo.png)](https://www.mysql.com/)
+[![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+[![Vite](https://img.icons8.com/color/50/000000/vite.png)](https://vitejs.dev/)
 
 
 ---
