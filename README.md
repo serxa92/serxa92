@@ -11,8 +11,9 @@
 
 
 - 📚 FullStack Development and Cross-Platform Application Development Student at ThePower.
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sergio-agulla/)
- [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white)](https://sergioagulla.vercel.app/) 
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sergio-agulla/)
+-  [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white)](https://sergioagulla.vercel.app/) 
+
   
 ---
 
@@ -24,6 +25,9 @@
 [![MySQL](https://img.icons8.com/color/50/000000/mysql-logo.png)](https://www.mysql.com/)
 [![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)](https://www.java.com/)
 [![Vite](https://img.icons8.com/color/50/000000/vite.png)](https://vitejs.dev/)
+[![Bootstrap](https://img.icons8.com/color/50/000000/bootstrap.png)](https://getbootstrap.com/)
+[![Docker](https://img.icons8.com/color/50/000000/docker.png)](https://www.docker.com/)
+[![Git](https://img.icons8.com/color/50/000000/git.png)](https://git-scm.com/)
 
 
 ---
