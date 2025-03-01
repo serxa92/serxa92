@@ -14,6 +14,7 @@
   <br>
   <br>
 [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/sergio-agulla/)
+<br>
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white)](https://sergioagulla.vercel.app/) 
 
 
