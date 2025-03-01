@@ -1,4 +1,4 @@
-### Hi there, I'm Serxa92 👋
+###<h3 color=#D83B7D> Hi there, I'm Serxa92 👋</h3> 
 
 <!-- Typing effect -->
 <h2 align="center">
@@ -22,12 +22,9 @@
 
 
 
-
-
-  
 ---
 
-### 🛠️ Tech Stack and tools
+### 🛠️ <h3 color=#D83B7D> Tech Stack and tools</h3>
 
 [![HTML5](https://img.icons8.com/color/50/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.icons8.com/color/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
