@@ -9,7 +9,7 @@
 
 ---
 
- 🚀 <h3 color=#D83B7D size=30 strong>About Me</h3>
+  <h3 color=#D83B7D size=30 strong>🚀About Me</h3>
 
 
 - 📚 FullStack Development and Cross-Platform Application Development Student at ThePower.
@@ -24,7 +24,7 @@
 
 ---
 
-🛠️ <h3 color=#D83B7D size=30 strong> Tech Stack and tools</h3>
+ <h3 color=#D83B7D size=30 strong>🛠️ Tech Stack and tools</h3>
 
 [![HTML5](https://img.icons8.com/color/50/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.icons8.com/color/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
