@@ -1,4 +1,4 @@
-<h3 >👋 Hi there, I'm Serxa92 </h3> 
+<h3 >[👋](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there, I'm Serxa92 </h3> 
 
 <!-- Typing effect -->
 <h2 align="center">
@@ -13,6 +13,7 @@
 
 
  - 📚 FullStack Development and Cross-Platform Application Development Student at ThePower.
+ - 🖥️ Take a look to my Portfolio here (https://sergioagulla.vercel.app/)
 
 
   
