@@ -18,10 +18,10 @@
 ### 🛠️ Tech Stack
 
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" alt="HTML5" width="50" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3" width="50" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/javascript.png" alt="JavaScript" width="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/postgresql.png" alt="SQL" width="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/50/000000/html-5.png" alt="HTML5" width="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS3" width="50" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" width="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="TypeScript" width="50" /></a>
 
 
 ---
