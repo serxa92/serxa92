@@ -2,14 +2,14 @@
 
 <!-- Typing effect -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D83B7D&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Fullstack+Developer;Passionate+about+Tech;Always+Learning"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&strong&color=D83B7D&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Fullstack+Developer;Passionate+about+Tech;Always+Learning"
 </h2>
 
 
 
 ---
 
-  <h3 color=#D83B7D size=30 strong>🚀About Me</h3>
+  <h3>🚀 About Me</h3>
 
 
 - 📚 FullStack Development and Cross-Platform Application Development Student at ThePower.
@@ -24,7 +24,7 @@
 
 ---
 
- <h3 color=#D83B7D size=30 strong>🛠️ Tech Stack and tools</h3>
+ <h3>🛠️ Tech Stack and tools</h3>
 
 [![HTML5](https://img.icons8.com/color/50/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.icons8.com/color/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
