@@ -1,4 +1,4 @@
-<h3 color=#D83B7D font-size=30 strong> Hi there, I'm Serxa92 👋</h3> 
+<h3 color=#D83B7D strong>👋 Hi there, I'm Serxa92 </h3> 
 
 <!-- Typing effect -->
 <h2 align="center">
