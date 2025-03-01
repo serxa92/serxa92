@@ -17,7 +17,6 @@
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/html-5.png" alt="HTML5" width="50" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/css3.png" alt="CSS3" width="50" /></a>
