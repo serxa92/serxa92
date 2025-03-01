@@ -10,18 +10,15 @@
 ### 🚀 About Me
 
 
-- 📚 I’m currently studying **DAM (Development of Multiplatform Applications) and a Master's in Fullstack Development**
+- 📚 FullStack Development and Cross-Platform Application Development Student at ThePower
+  
 
 
 ---
 
 ### 🛠️ Tech Stack
 
-[![HTML5](https://img.icons8.com/color/50/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.icons8.com/color/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.icons8.com/color/50/000000/database.png)](https://www.mysql.com/)
-[![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite)](https://skillicons.dev)
 
 
 ---
