@@ -20,7 +20,7 @@
 [![HTML5](https://img.icons8.com/color/50/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.icons8.com/color/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PostgreSQL](https://img.icons8.com/color/50/000000/postgresql.png)](https://www.postgresql.org/)
+[![SQL](https://img.icons8.com/color/50/000000/database.png)](https://www.postgresql.org/)
 [![Java](https://img.icons8.com/color/50/000000/java.png)](https://www.java.com/)
 
 
