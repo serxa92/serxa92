@@ -36,8 +36,9 @@
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sergio-agulla/))  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white)]([https://your-portfolio.com](https://sergioagulla.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sergio-agulla/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white)](https://sergioagulla.vercel.app/)
+
 
 ---
 
