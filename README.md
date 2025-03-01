@@ -17,18 +17,18 @@
   
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack and tools
 
+[![HTML5](https://img.icons8.com/color/50/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.icons8.com/color/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MySQL](https://img.icons8.com/color/50/000000/mysql-logo.png)](https://www.mysql.com/)
+[![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)](https://www.java.com/)
+[![Vite](https://img.icons8.com/color/50/000000/vite.png)](https://vitejs.dev/)
+[![Bootstrap](https://img.icons8.com/color/50/000000/bootstrap.png)](https://getbootstrap.com/)
+[![Docker](https://img.icons8.com/color/50/000000/docker.png)](https://www.docker.com/)
+[![Git](https://img.icons8.com/color/50/000000/git.png)](https://git-scm.com/)
 
-[![HTML5](https://img.icons8.com/ios-filled/50/FFFFFF/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.icons8.com/ios-filled/50/FFFFFF/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.icons8.com/ios-filled/50/FFFFFF/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://img.icons8.com/ios-filled/50/FFFFFF/mysql-logo.png)](https://www.mysql.com/)
-[![Java](https://img.icons8.com/ios-filled/50/FFFFFF/java-coffee-cup-logo.png)](https://www.java.com/)
-[![Vite](https://img.icons8.com/ios-filled/50/FFFFFF/vite.png)](https://vitejs.dev/)
-[![Bootstrap](https://img.icons8.com/ios-filled/50/FFFFFF/bootstrap.png)](https://getbootstrap.com/)
-[![Docker](https://img.icons8.com/ios-filled/50/FFFFFF/docker.png)](https://www.docker.com/)
-[![Git](https://img.icons8.com/ios-filled/50/FFFFFF/git.png)](https://git-scm.com/)
 
 
 ---
