@@ -17,7 +17,7 @@
 <h3 align="center">📫 Contact Me</h3>
 
 <p align="center">
-  💼 <a href="https://www.linkedin.com/in/sergioagulla/">LinkedIn</a><br>
+  💼 <a href="https://www.linkedin.com/in/sergio-agulla/">LinkedIn</a><br>
   ✉️ <a href="mailto:serxa92@hotmail.com">Email</a><br>
   💬 Discord: serxa92
 </p>
