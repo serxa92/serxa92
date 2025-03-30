@@ -38,7 +38,6 @@
   <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/50/git.png" alt="Git"/></a>
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/50/python.png" alt="Python"/></a>
 
-  <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serxa92&layout=compact&theme=radical" />
 
