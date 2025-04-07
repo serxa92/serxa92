@@ -70,14 +70,13 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c5/a8/68/c5a868c0a85783c7b13e55f8fec4661a.gif" alt="LinkedIn" width="50"/> Made with passion by <a href="https://github.com/serxa92">Sergio Agulla</a>
+ <img src="https://profile-counter.glitch.me/serxa92/count.svg" alt="Contador de visitas">
 </p>
 
 ---
 
-<p align="center">
-   <img src="https://profile-counter.glitch.me/serxa92/count.svg" alt="Contador de visitas">
-
+<p align="center"> 
+   🌱Made with passion by <a href="https://github.com/serxa92">Sergio Agulla</a>
 </p>
 
 
