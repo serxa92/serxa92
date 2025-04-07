@@ -6,22 +6,32 @@
 
 ---
 
-### 🧔🏻 About Me
+###  <div align="center"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/bald-business-man-3d-icon-download-in-png-blend-fbx-gltf-file-formats--businessman-guy-male-people-avatar-character-pack-woman-icons-7887329.png?f=webp" alt="LinkedIn" width="20"/>Contact Me
 
-📚 FullStack Development and Cross-Platform Application Development student at Prometeo by ThePower.  
-🎮 Passionate about tech, videogames, sneakers, and building tools that solve real problems.  
-🌐 [Portfolio](https://sergioagulla.vercel.app/)
+  
+</div>
 
----
+ <p align="center">
 
-<h3 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJiMTJjMXhjeDc4bTU2OG0ycWVmN2Ewbnpvdmdjdzk4cG12eDIzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0JM83bF1jbRsTnNu/giphy.gif" alt="icono animado" width="50" /><br>Contact Me</h3>
-
-<p align="center">
-  💼 <a href="https://www.linkedin.com/in/sergio-agulla/">LinkedIn</a><br>
-  ✉️ <a href="mailto:serxa92@hotmail.com">Email</a><br>
-  💬 Discord: serxa92
+  <a href="https://www.linkedin.com/in/sergio-agulla/">
+    <img src="372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" width="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:serxa92@hotmail.com">
+    <img src="https://cdn.pixabay.com/animation/2022/09/28/02/29/02-29-48-377_512.gif" alt="Email" width="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="http://discordapp.com/users/%20294615395921559552">
+  <img src="372108630_DISCORD_LOGO_400.gif" alt="Discord" width="60"/>
 </p>
 
+
+###  <div align="center"><a href="https://sergioagulla.vercel.app/">🌐My Portfolio
+
+  
+</div>
+
+   
 
 ---
 
@@ -43,7 +53,7 @@
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/50/python.png" alt="Python"/></a>
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serxa92&layout=compact&theme=radical" />
+  
 
 </div>
 
@@ -53,13 +63,22 @@
   Github Stats
 </h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=serxa92&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=serxa92&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=serxa92&show_icons=true&theme=radical" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serxa92&layout=compact&theme=radical" width="300" height="200" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/c5/a8/68/c5a868c0a85783c7b13e55f8fec4661a.gif" alt="LinkedIn" width="50"/> Made with passion by <a href="https://github.com/serxa92">Sergio Agulla</a>
 </p>
 
 ---
 
 <p align="center">
-  🌱 Made with passion by <a href="https://github.com/serxa92">Sergio Agulla</a>
+   <img src="https://profile-counter.glitch.me/serxa92/count.svg" alt="Contador de visitas">
+
 </p>
+
+
 
