@@ -6,7 +6,7 @@
 
 ---
 
-###  <div align="center"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/bald-business-man-3d-icon-download-in-png-blend-fbx-gltf-file-formats--businessman-guy-male-people-avatar-character-pack-woman-icons-7887329.png?f=webp" alt="LinkedIn" width="20"/>Contact Me
+###  <div align="center">👇🏼 Contact Me  👇🏼
 
   
 </div>
