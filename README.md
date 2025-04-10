@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="icono animado" width="40" />Hi there, I'm Sergio!</h1>
 
 <h2 align="center" style="margin-top: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=9B30FF&center=true&vCenter=true&multiline=true&width=500&height=120&lines=Fullstack+Developer;Passionate+about+Tech;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=9B30FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Fullstack+Development+Student;Passionate+about+Tech;Always+Learning" />
 </h2>
 
 ---
