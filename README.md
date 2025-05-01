@@ -68,9 +68,12 @@
 </p>
 
 
-
+###  <div align="center">Thanks for coming!
 <p align="center">
- <img src="https://profile-counter.glitch.me/serxa92/count.svg" alt="Contador de visitas">
+  
+<img src="https://count.getloli.com/get/@serxa92?theme=gelbooru" width=400 alt="Visitas" />
+
+
 </p>
 
 ---
