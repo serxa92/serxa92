@@ -68,7 +68,7 @@
 </p>
 
 
-###  <div align="center">Thanks for coming!
+###  <div align="center">Thanks for visiting me!
 <p align="center">
   
 <img src="https://count.getloli.com/get/@serxa92?theme=gelbooru" width=400 alt="Visitas" />
