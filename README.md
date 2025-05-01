@@ -68,13 +68,14 @@
 </p>
 
 
-###  <div align="center">Thanks for visiting me!
+###  <div align="center">You are the visitor number:
 <p align="center">
   
 <img src="https://count.getloli.com/get/@serxa92?theme=3d-num" width=300 alt="Visitas" />
 
 
 </p>
+  <div align="center">Thanks for coming!
 
 ---
 
