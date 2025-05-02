@@ -6,7 +6,7 @@
 
 ---
 
-###  <div align="center">👇🏼 Contact Me  👇🏼
+###  <div align="center"> Contact Me  
 
   
 </div>
