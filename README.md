@@ -74,7 +74,7 @@
 ###  <div align="center">You are the visitor number:
 <p align="center">
   
-<img src="https://count.getloli.com/get/@serxa92?theme=3d-num" width=300 alt="Visitas" />
+<img src="https://count.getloli.com/get/@serxa92?theme=3d-num" width=200 alt="Visitas" />
 
 
 
@@ -87,7 +87,7 @@
     
 
 ---
- <img src="https://i.imgur.com/4jcXSM7.png"  witdh="240" height="300" alt="imagen" />
+ <img src="https://i.imgur.com/4jcXSM7.png"  witdh="240" height="200" alt="imagen" />
 <p align="center"> 
    🌱Made with passion by <a href="https://github.com/serxa92">Sergio Agulla</a>
   
