@@ -2,7 +2,7 @@
 
 
 <h2 align="center" style="margin-top: 0;" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=9B30FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Fullstack+Development+Student;Passionate+about+Tech;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=9B30FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Software+Development+Student;Fullstack+Development|+IA+;Always+Learning" />
 </h2>
 
 ---
@@ -29,7 +29,7 @@
 </p>
 
 
-###  <div align="center"><a href="https://sergio-a-portfolio.vercel.app/">🌐My Portfolio
+###  <div align="center"><a href="https://sergio-a-portfolio.vercel.app/">🌐Portfolio
 
   
 </div>
@@ -55,8 +55,17 @@
   <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/50/git.png" alt="Git"/></a>
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/50/python.png" alt="Python"/></a>
 
-
   
+<a href="https://kotlinlang.org/"> <img src="https://img.icons8.com/color/50/kotlin.png" alt="Kotlin"/></a>
+<a href="https://react.dev/"><img src="https://img.icons8.com/color/50/react-native.png" alt="React"/></a>
+<a href="https://nodejs.org/"><img src="https://img.icons8.com/color/50/nodejs.png" alt="Node.js"/></a>
+<a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/50/mongodb.png" alt="MongoDB"/></a>
+<a href="https://supabase.com/"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="Supabase" width="50" height="50"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/50/azure-1.png" alt="Azure"/></a>
+<a href="https://developer.android.com/studio"><img src="https://cdn.simpleicons.org/androidstudio" alt="Android Studio" width="50" height="50"/>
+</a>
+
+
 
 </div>
 
