@@ -7,29 +7,21 @@
 
 ---
 
-###  <div align="center"> Contact Me 
-
-
-
-  
-</div>
-
- <p align="center">
-
-  <a href="https://www.linkedin.com/in/sergio-agulla/">
-    <img src="372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" width="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:serxa92@hotmail.com">
-    <img src="https://cdn.pixabay.com/animation/2022/09/28/02/29/02-29-48-377_512.gif" alt="Email" width="60"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="http://discordapp.com/users/%20294615395921559552">
-  <img src="372108630_DISCORD_LOGO_400.gif" alt="Discord" width="60"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=+Add+me+👇🏼;+Don´t+be+shy+😊;+;" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergio-agulla/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <img src="372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" height="48" />
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://discordapp.com/users/294615395921559552" target="_blank" rel="noopener noreferrer" aria-label="Discord">
+    <img src="372108630_DISCORD_LOGO_400.gif" alt="Discord" height="48" />
+  </a>
+</p>
 
-###  <div align="center"><a href="https://sergio-a-portfolio.vercel.app/">🌐Portfolio
 
   
 </div>
