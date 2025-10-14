@@ -43,30 +43,33 @@
   Tech Stack & Tools
 </h3>
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</div>
+
+<hr style="border: 0; height: 1px; background: #333; margin: 30px 0;">
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" alt="icono animado" width="70" /><br>
+  Currently Learning
+</h3>
 
 <div align="center">
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/50/html-5.png" alt="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.icons8.com/color/50/css3.png" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.icons8.com/color/50/javascript.png" alt="JavaScript"/></a>
-  <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/50/mysql-logo.png" alt="MySQL"/></a>
-  <a href="https://www.java.com/"><img src="https://img.icons8.com/color/50/java-coffee-cup-logo.png" alt="Java"/></a>
-  <a href="https://vitejs.dev/"><img src="https://img.icons8.com/color/50/vite.png" alt="Vite"/></a>
-  <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/50/git.png" alt="Git"/></a>
-  <a href="https://www.python.org/"><img src="https://img.icons8.com/color/50/python.png" alt="Python"/></a>
-
   
-<a href="https://kotlinlang.org/"> <img src="https://img.icons8.com/color/50/kotlin.png" alt="Kotlin"/></a>
-<a href="https://react.dev/"><img src="https://img.icons8.com/color/50/react-native.png" alt="React"/></a>
-<a href="https://nodejs.org/"><img src="https://img.icons8.com/color/50/nodejs.png" alt="Node.js"/></a>
-<a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/50/mongodb.png" alt="MongoDB"/></a>
-<a href="https://supabase.com/"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" alt="Supabase" width="50" height="50"/></a>
-<a href="https://azure.microsoft.com/"><img src="https://img.icons8.com/color/50/azure-1.png" alt="Azure"/></a>
-<a href="https://developer.android.com/studio"><img src="https://cdn.simpleicons.org/androidstudio" alt="Android Studio" width="50" height="50"/>
-</a>
-
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" alt="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" alt="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" alt="Android Studio"/>
 </div>
 
 ---
@@ -98,6 +101,8 @@
 ---
  <img src="https://i.imgur.com/4jcXSM7.png"  witdh="240" height="200" alt="imagen" />
 <p align="center"> 
+  <hr style="border: 0; height: 1px; background: #333; margin: 30px 0;">
+
    🌱Made with passion by <a href="https://github.com/serxa92">Sergio Agulla</a>
   
 </p>
