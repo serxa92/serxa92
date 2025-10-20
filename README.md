@@ -1,14 +1,15 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="icono animado" width="40" /> Hi there, I'm Sergio!</h1>
 
 
-<h2 align="center" style="margin-top: 0;" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=9B30FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Software+Development+Student;Fullstack+Development|+IA+;Always+Learning" />
+<h2 align="center" style="margin-top: 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=1000&color=9B30FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Software+Development+Student;Fullstack+Development|+IA+;Always+Learning" />
 </h2>
+
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=+Add+me+👇🏼;+Don´t+be+shy+😊;+;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=+Add+me+👇🏼;+Don´t+be+shy+😊;+;" alt="Typing SVG" />
 </p>
 
 <p align="center">
