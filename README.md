@@ -2,7 +2,7 @@
 
 
 <h2 align="center" style="margin-top: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=1000&color=9B30FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Junior+Software+Developer+|+;+Fullstack+Developer+|+IA+;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=1000&color=9B30FF&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Junior+FullStack++|+;+Multiplatform+Developer+|+IA+;Always+Learning" />
 </h2>
 
 
