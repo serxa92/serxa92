@@ -71,9 +71,10 @@
   Github Stats
 </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serxa92&show_icons=true&theme=radical" width="400" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serxa92&layout=compact&theme=radical" width="300" height="200" />
+  <img src="https://github-stats-five-nu.vercel.app/api?username=serxa92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" width="443" />
+  <img src="https://github-stats-five-nu.vercel.app/api/top-langs/?username=serxa92&layout=donut&theme=tokyonight" width="300" />
 </p>
+
 
 
 ###  <div align="center">You are the visitor number:
