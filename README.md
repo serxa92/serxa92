@@ -176,7 +176,7 @@
 <img src="https://i.imgur.com/4jcXSM7.png"  witdh="200" height="180" alt="imagen" />
 <hr style="border: 0; height: 1px; background: #333; margin: 30px 0;">
 
-   🌱Made with passion by <a href="https://github.com/serxa92">Sergio Agulla</a>
+   Made with passion by <a href="https://github.com/serxa92">Serxa92</a>
    
   
 </p>
