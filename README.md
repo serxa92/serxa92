@@ -144,8 +144,8 @@
   Github Stats
 </h3>
 <p align="center">
-  <img src="https://github-stats-five-nu.vercel.app/api?username=serxa92&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&rank_icon=github" width="443" />
-  <img src="https://github-stats-five-nu.vercel.app/api/top-langs/?username=serxa92&layout=donut&theme=catppuccin_mocha" width="300" />
+  <img src="https://github-stats-five-nu.vercel.app/api?username=serxa92&show_icons=true&hide_border=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&rank_icon=github" width="500" />
+  <img src="https://github-stats-five-nu.vercel.app/api/top-langs/?username=serxa92&layout=donut&hide_border=true&size_weight=0&hide=html,typescript,css&count_weight=1&theme=catppuccin_mocha" width="340" />
 </p>
 
 
