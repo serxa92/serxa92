@@ -6,40 +6,19 @@
 </h2>
 
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=+Contact+me+👇🏼;+;" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sergio-agulla/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-    <img src="372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" height="48" />
-  </a>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://discordapp.com/users/294615395921559552" target="_blank" rel="noopener noreferrer" aria-label="Discord">
-    <img src="372108630_DISCORD_LOGO_400.gif" alt="Discord" height="48" />
-  </a>
-</p>
 
 
-  
-</div>
 
-   
-
----
 
 <h3 align="center">
-  <img src="https://i.imgur.com/keSzdVD.gif" alt="icono animado" width="40" /><br>
+  <img src="https://i.imgur.com/keSzdVD.gif" alt="icono animado" width="50" /><br>
   Tech Stack & Tools
 </h3>
 <div align="center">
   <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>
       <sub>HTML</sub>
     </td>
     <td align="center" width="90">
@@ -140,13 +119,38 @@
 
 ---
 <h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="icono animado" width="40" /><br>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" alt="icono animado" width="50" /><br>
   Github Stats
 </h3>
 <p align="center">
   <img src="https://github-stats-five-nu.vercel.app/api?username=serxa92&show_icons=true&hide_border=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&rank_icon=github" width="500" />
   <img src="https://github-stats-five-nu.vercel.app/api/top-langs/?username=serxa92&layout=donut&hide_border=true&size_weight=0&hide=html,typescript,css&count_weight=1&theme=catppuccin_mocha" width="340" />
 </p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=+Contact+me+👇🏼;+;" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/sergio-agulla/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+    <img src="372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" height="48" />
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://discordapp.com/users/294615395921559552" target="_blank" rel="noopener noreferrer" aria-label="Discord">
+    <img src="372108630_DISCORD_LOGO_400.gif" alt="Discord" height="48" />
+  </a>
+</p>
+
+
+  
+</div>
+
+   
+
+---
 
 
 
@@ -165,12 +169,15 @@
  
     
 
----
- <img src="https://i.imgur.com/4jcXSM7.png"  witdh="240" height="200" alt="imagen" />
+
+ 
 <p align="center"> 
-  <hr style="border: 0; height: 1px; background: #333; margin: 30px 0;">
+  
+<img src="https://i.imgur.com/4jcXSM7.png"  witdh="200" height="180" alt="imagen" />
+<hr style="border: 0; height: 1px; background: #333; margin: 30px 0;">
 
    🌱Made with passion by <a href="https://github.com/serxa92">Sergio Agulla</a>
+   
   
 </p>
 
