@@ -128,25 +128,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=+Contact+me+👇🏼;+;" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/sergio-agulla/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-    <img src="372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="LinkedIn" height="48" />
-  </a>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://discordapp.com/users/294615395921559552" target="_blank" rel="noopener noreferrer" aria-label="Discord">
-    <img src="372108630_DISCORD_LOGO_400.gif" alt="Discord" height="48" />
-  </a>
-</p>
-
-
-  
-</div>
 
    
 
