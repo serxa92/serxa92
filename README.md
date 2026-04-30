@@ -6,6 +6,35 @@
 </h2>
 
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" alt="icono animado" width="70" /><br>
+  Currently Working On 
+</h2>
+
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center" width="520">
+      <br>
+      <img src="https://github.com/serxa92/serxa92/blob/main/Captura_de_pantalla_2026-02-05_130852-removebg-preview.png" alt="Arkadia Logo" height="60" />
+      <br><br>
+      <strong>Arkadia</strong> — A mobile app for video game discovery and exploration<br><br>
+      <img src="https://img.shields.io/badge/Status-En%20desarrollo-blueviolet?style=for-the-badge&logo=gamepad2&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/serxa92/PIDAM-Arkadia">
+        <img src="https://img.shields.io/badge/View%20Repo-Arkadia-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 
 
 
