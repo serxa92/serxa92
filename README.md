@@ -20,7 +20,7 @@
       <img src="https://github.com/serxa92/serxa92/blob/main/Captura_de_pantalla_2026-02-05_130852-removebg-preview.png" alt="Arkadia Logo" height="60" />
       <br><br>
       <strong>Arkadia</strong> — A mobile app for video game discovery and exploration<br><br>
-      <img src="https://img.shields.io/badge/Status-En%20desarrollo-blueviolet?style=for-the-badge&logo=gamepad2&logoColor=white" />
+      <img src="https://img.shields.io/badge/Status-In%20Development-blueviolet?style=for-the-badge&logo=gamepad2&logoColor=white" />
       <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
       <br><br>
       <a href="https://github.com/serxa92/PIDAM-Arkadia">
