@@ -15,14 +15,14 @@
   <tr>
     <td align="center" width="520">
       <br>
-      <img src="https://github.com/serxa92/serxa92/blob/main/Captura_de_pantalla_2026-02-05_130852-removebg-preview.png" alt="Arkadia Logo" height="60" />
+      <img src="https://github.com/serxa92/Veynx/blob/0ceafcffb647675f36ff1354a60540a559de1a68/assets/branding/Logo-1.png" alt="Arkadia Logo" height="150" />
       <br><br>
-      <strong>Arkadia</strong> — A mobile app for video game discovery and exploration<br><br>
-      <img src="https://img.shields.io/badge/Status-In%20Development-blueviolet?style=for-the-badge&logo=gamepad2&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <strong>VEYNX</strong> — a mobile application designed to connect vehicle owners with professionals and creators specialized in the automotive industry.<br><br>
+      <img src="https://img.shields.io/badge/Status-In%20Development-FA6601?style=for-the-badge&logo=gamepad2&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-Mobile-FA6601?style=for-the-badge&logo=flutter&logoColor=FA6601" />
       <br><br>
-      <a href="https://github.com/serxa92/PIDAM-Arkadia">
-        <img src="https://img.shields.io/badge/View%20Repo-Arkadia-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/serxa92/Veynx">
+        <img src="https://img.shields.io/badge/View%20Repo-VEYNX-FA6601?style=for-the-badge&logo=github&logoColor=FA6601" />
       </a>
       <br><br>
     </td>
