@@ -15,7 +15,7 @@
   <tr>
     <td align="center" width="520">
       <br>
-      <img src="https://github.com/serxa92/Veynx/blob/0ceafcffb647675f36ff1354a60540a559de1a68/assets/branding/Logo-1.png" alt="Arkadia Logo" height="150" />
+      <img src="https://github.com/serxa92/Veynx/blob/0ceafcffb647675f36ff1354a60540a559de1a68/assets/branding/Logo-1.png" alt="Arkadia Logo" height="200" />
       <br><br>
       <strong>VEYNX</strong> — a mobile application designed to connect vehicle owners with professionals and creators specialized in the automotive industry.<br><br>
       <img src="https://img.shields.io/badge/Status-In%20Development-FA6601?style=for-the-badge&logo=gamepad2&logoColor=white" />
